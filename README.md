@@ -19,7 +19,7 @@ Deux versions du programme sont fournies :
 - Version C
 - Version Python
 
-Les deux versions produisent les mêmes résultats et génèrent un fichier 'rapport_analyse.txt'.
+Les deux versions produisent les mêmes résultats et génèrent un fichier "rapport_analyse.txt"
 
 Exemple:
 
